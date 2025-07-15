@@ -4,7 +4,7 @@
 - The project demonstrates the use of control structures, input validation, loops, and random number generation.
 
   Key Features:
-  - .Random number generation using the random module
-  - .Real-time user input with validation
-  - .Loop-based guessing mechanism with attempt tracking
-  - .Basic error handling for non-integer inputs
+  - Random number generation using the random module
+  - Real-time user input with validation
+  - Loop-based guessing mechanism with attempt tracking
+  - Basic error handling for non-integer inputs
